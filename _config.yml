@@ -1,8 +1,8 @@
 # Bloggy particulars
 highlighter: "rouge"
 permalink: "/:year/:title"
-name: "William Ellison"
-description: "Insane blogging action since 2022"
+name: "Route 38"
+description: "Better than Routes 1 through 37"
 future: false
 
 plugins: ["jekyll-paginate"]
@@ -25,9 +25,8 @@ person:
 
 social:
   networks:
-    linkedin:  tnwae
-    github:    tnwae
-    email:     waellison@gmail.com
+    instagram: nobettershoulder
+    twitter:   waedotpy
   options:
     email:     envelope
 
