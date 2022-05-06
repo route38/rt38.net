@@ -10,7 +10,5 @@ lot of changes in the past three years.
 This is my non-technical blog, and if for some reason you actually want
 to read this horseshit, you can find it at <https://rt38.net>.
 
-Copyright &copy; 2012-2021 by William Ellison, no rights reserved.  This
-content is licensed under the terms of the WTFPL -- choose freedom; do
-what the fuck you want to.
-
+Copyright &copy; 2012-2022 by William Ellison.  If you use any of this
+shit, kindly attribute me.
