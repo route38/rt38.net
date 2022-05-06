@@ -27,7 +27,8 @@ Apple Mail.
 
 ## Server Software
 
-_William Ellison('s Blog)_, like my portfolio site, is hosted by Linode.
+_Route 38_, like _William Ellison('s Blog)_ and my portfolio site, is
+hosted by Linode.
 
 The Linode VPS serving this site runs Debian Linux and Apache.
 
