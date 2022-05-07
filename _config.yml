@@ -7,11 +7,6 @@ future: false
 
 plugins: ["jekyll-paginate"]
 
-collections:
-  contributors:
-    output: true
-    permalink: "/authors/:path/"
-
 url: https://waellison.blog
 paginate: 5
 excerpt_separator: "\n\n"
@@ -22,21 +17,6 @@ person:
   email: waellison@gmail.com
   occupation: Pythonista &amp; Blogger
   phone: 865-789-7765
-
-social:
-  networks:
-    instagram: nobettershoulder
-    twitter:   waedotpy
-  options:
-    email:     envelope
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "wae"
-      coffee: "Yes"
 
 encoding: UTF-8
 exclude: 
