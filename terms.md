@@ -22,10 +22,10 @@ All data and information provided on tnwae.us is for informational purposes only
 
 This website's textual and photographic content is licensed under the terms of the Creative Commons [Attribution-NonCommercial-NoDerivatives 4.0 International][cc-by-nc-nd-4.0] License.
 
-Computer code (i.e., scripts, layouts, stylesheets, code snippets, etc.) is licensed under the terms of the [WTFPL][wtfpl].
+Computer code (i.e., scripts, layouts, stylesheets, code snippets, etc.) is licensed under the terms of the [3-clause BSD license][lic].
 
 [cc-by-nc-nd-4.0]: http://creativecommons.org/licenses/by-nc-nd/4.0/deed
-[wtfpl]: http://www.wtfpl.net
+[lic]: https://github.com/waellison/rt38.net/blob/trunk/COPYING
 
 ## Linking Policy
 
